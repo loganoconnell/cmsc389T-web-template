@@ -2,6 +2,6 @@
 
 Website Template for Project 3
 
-TODO: Link
+Link: https://loganoconnell.me/cmsc389T-web-template/
 
 What I changed: Added an additional social media link
