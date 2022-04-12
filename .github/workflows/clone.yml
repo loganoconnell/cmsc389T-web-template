@@ -29,4 +29,5 @@ jobs:
           password: ${{ secrets.PASSWORD }}
           port: ${{ secrets.PORT }}
           script: |
-            git clone
+            cd ../pub
+            git clone https://github.com/loganoconnell/cmsc389t-web-template.git
