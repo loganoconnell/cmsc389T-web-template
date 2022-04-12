@@ -9,7 +9,6 @@ FROM node:10-alpine
 
 RUN mkdir -p /home/node/nodeapp && chown -R node:node /home/node/nodeapp
 
-
 WORKDIR /home/node/nodeapp
 
 COPY package.json ./
